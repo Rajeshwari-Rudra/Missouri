@@ -32,3 +32,4 @@ Missouri’s climate trends essentially run along a diagonal gradient.
 
 #### Above Image is from this source [Missouri Climate](http://climate.missouri.edu/)
 ##### Source of Info [Climate](http://www.springfield.climatemps.com/springfield-climograph.gif)
+#### Another source Info [Weather](https://en.wikipedia.org/wiki/Climate_of_Missouri)
